@@ -2,23 +2,44 @@ body{
     margin:auto;
     background-color: darkgreen;
     font-family: 'Indie Flower', cursive;
+    font-size: 20px;
 }
 header{
     background-color:darkslategray;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
     font-family: 'Explora', cursive;
+    color:floralwhite;
+    font-size: 30px;
+    padding: 20px;
+    border-style: double;
 }
-header h1{
-    color:darkgrey;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 header img{
-    border-radius: 150px;
+    border-radius: 50px;
     width: 300px;
-    border: 10px solid #EADDCA;
+    border: 20px solid #EADDCA;
 }
-h1, h2{
+h2{
     font-family: 'Explora', cursive;
+    color: floralwhite;
+    font-size:20px;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+main img{
+    max-width: 100%;
+}
+a{
+  color:#EADDCA;  
+}
+a:hover{
+    background-color: black;
+    color:coral;
+    opacity: .5;
+}
+footer{
+    margin:0%;
 }
