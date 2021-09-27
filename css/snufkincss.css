@@ -1,13 +1,14 @@
 body{
     margin:auto;
     background-color: darkgreen;
-    font-family: 'Explora', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 header{
     background-color:darkslategray;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
+    font-family: 'Explora', cursive;
 }
 header h1{
     color:darkgrey;
@@ -17,4 +18,7 @@ header img{
     border-radius: 150px;
     width: 300px;
     border: 10px solid #EADDCA;
+}
+h1, h2{
+    font-family: 'Explora', cursive;
 }
