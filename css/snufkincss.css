@@ -1,3 +1,7 @@
 body{
+    margin:auto;
     background-color: darkgreen;
+}
+header{
+    background-color: darkgrey;
 }
