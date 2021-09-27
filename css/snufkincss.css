@@ -3,7 +3,7 @@ body{
     background-color: darkgreen;
 }
 header{
-    background-color: darkgrey;
+    background-color:darkslateblue;
     text-align: center;
 }
 header h1{
@@ -12,5 +12,5 @@ header h1{
 header img{
     border-radius: 150px;
     width: 300px;
-    border: 10px solid #36454F;
+    border: 10px solid #00070c;
 }
