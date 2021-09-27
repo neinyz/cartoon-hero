@@ -1,15 +1,13 @@
 body{
     margin:auto;
     background-color: darkgreen;
+    font-family: 'Explora', cursive;
 }
 header{
     background-color:darkslategray;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-}
-h1, h2{
-    font-family: 'Explora', cursive;
 }
 header h1{
     color:darkgrey;
