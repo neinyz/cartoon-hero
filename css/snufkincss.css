@@ -3,14 +3,17 @@ body{
     background-color: darkgreen;
 }
 header{
-    background-color:darkslateblue;
+    background-color:darkslategray;
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 header h1{
     color:darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 header img{
     border-radius: 150px;
     width: 300px;
-    border: 10px solid #00070c;
+    border: 10px solid #EADDCA;
 }
