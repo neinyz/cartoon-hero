@@ -4,4 +4,13 @@ body{
 }
 header{
     background-color: darkgrey;
+    text-align: center;
+}
+header h1{
+    color:darkgrey;
+}
+header img{
+    border-radius: 150px;
+    width: 300px;
+    border: 10px solid #36454F;
 }
