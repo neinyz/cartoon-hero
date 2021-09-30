@@ -1,13 +1,13 @@
 body{
     margin:auto;
-    background-color: darkgreen;
-    font-family: 'Indie Flower', cursive;
+    background-color:whitesmoke;
+    font-family: 'Agency FB';
     font-size: 20px;
 }
 header{
-    background-color:darkslategray;
+    background-color:midnightblue;
     text-align: center;
-    font-family: 'Explora', cursive;
+    font-family: 'Castellar';
     color:floralwhite;
     font-size: 30px;
     padding: 20px;
