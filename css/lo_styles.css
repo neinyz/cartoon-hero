@@ -19,6 +19,7 @@ h1{
 }
 
 header img{
+    max-width:40%;
     border-radius: 150px;
     width: 300px;
     border: 100px solid #EADDCA;
