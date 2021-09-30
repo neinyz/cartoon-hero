@@ -12,11 +12,12 @@ header{
     color:floralwhite;
     font-size: 15px;
     border-style: double;
+    padding: 30px;
 }
 h1{
     font-size: 1.5em;
 }
-}
+
 header img{
     border-radius: 150px;
     width: 300px;
@@ -34,7 +35,7 @@ main{
     padding: 0 20px;
 }
 main img{
-    max-width: 80%;
+    max-width: 60%;
 }
 a{
   color:darkblue;  
