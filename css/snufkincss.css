@@ -33,12 +33,11 @@ main img{
     max-width: 100%;
 }
 a{
-  color:#EADDCA;  
+  color:darkblue;  
 }
 a:hover{
     background-color: black;
     color:red;
-    opacity: .5;
 }
 footer{
     margin:0%;
