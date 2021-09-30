@@ -1,8 +1,8 @@
 body{
     margin:auto;
     background-color:whitesmoke;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-family:'Agency FB';
+    font-size: 15px;
 }
 header{
     background-color:midnightblue;
@@ -17,12 +17,12 @@ header{
 header img{
     border-radius: 50px;
     width: 300px;
-    border: 20px solid #EADDCA;
+    border: 50px solid #EADDCA;
 }
-h1, h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+h2{
+    font-family:'Castellar';
     color:rgb(143, 3, 3);
-    font-size:20px;
+    font-size:15px;
 }
 main{
     max-width: 800px;
@@ -37,8 +37,8 @@ a{
 }
 a:hover{
     background-color: black;
-    color:red;
+    color:darkgray;
 }
 footer{
-    margin:0%;
+    margin:auto;
 }
