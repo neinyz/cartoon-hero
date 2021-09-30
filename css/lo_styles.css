@@ -48,7 +48,7 @@ a:hover{
 footer{
     text-align: center;
 }
-button {
+.button {
     background-color: whitesmoke;
     color: black;
     font-size: 16px;
@@ -57,7 +57,7 @@ button {
     padding: 12px 28px;
     transition-duration: 0.4s;
 }
-button:hover {
+.button:hover {
     background-color: #0e149a; /*dark blue*/
     color: whitesmoke;
 }
