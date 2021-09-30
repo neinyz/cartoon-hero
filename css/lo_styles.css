@@ -19,10 +19,10 @@ h1{
 }
 
 header img{
-    max-width:40%;
-    border-radius: 150px;
+    max-width:20%;
+    border-radius: 200px;
     width: 300px;
-    border: 100px solid #EADDCA;
+    border: 10px solid whitesmoke;
 }
 h2{
     font-family:'Castellar';
@@ -46,5 +46,18 @@ a:hover{
     color:darkgray;
 }
 footer{
-    margin:auto;
+    text-align: center;
+}
+button {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    border: 2px solid #0e149a; /*dark blue*/
+    border-radius: 20px;
+    padding: 12px 28px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: #0e149a; /*dark blue*/
+    color: whitesmoke;
 }
