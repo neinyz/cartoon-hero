@@ -1,13 +1,13 @@
 body{
     margin:auto;
     background-color:whitesmoke;
-    font-family: 'Agency FB';
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 header{
     background-color:midnightblue;
     text-align: center;
-    font-family: 'Castellar';
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:floralwhite;
     font-size: 30px;
     padding: 20px;
@@ -19,9 +19,9 @@ header img{
     width: 300px;
     border: 20px solid #EADDCA;
 }
-h2{
-    font-family: 'Explora', cursive;
-    color: floralwhite;
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(143, 3, 3);
     font-size:20px;
 }
 main{
@@ -37,7 +37,7 @@ a{
 }
 a:hover{
     background-color: black;
-    color:coral;
+    color:red;
     opacity: .5;
 }
 footer{
