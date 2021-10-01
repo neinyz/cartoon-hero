@@ -72,7 +72,8 @@ footer{
 .right {
     border-radius: 20px;
     border: 2px solid #0e149a;
-    width: 25%;
+    width: 11%;
+    padding: 5px;
 }
 /*clear floats after the columns*/
 .row::after {
