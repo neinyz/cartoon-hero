@@ -62,14 +62,13 @@ footer{
     background-color: #0e149a; /*dark blue*/
     color: whitesmoke;
 }
-.column {
+
+.left {
     float: left;
-    width: 50%;
-}
-.column :left {
     width: 75%;
 }
-.column :right {
+.right {
+    float: left;
     width: 25%;
 }
 /*clear floats after the columns*/
