@@ -62,3 +62,13 @@ footer{
     background-color: #0e149a; /*dark blue*/
     color: whitesmoke;
 }
+.column {
+    float: left;
+    width: 50%;
+}
+/*clear floats after the columns*/
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
