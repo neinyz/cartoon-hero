@@ -66,6 +66,12 @@ footer{
     float: left;
     width: 50%;
 }
+.column :left {
+    width: 75%;
+}
+.column :right {
+    width: 25%;
+}
 /*clear floats after the columns*/
 .row::after {
     content: "";
